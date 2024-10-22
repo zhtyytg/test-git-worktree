@@ -1,0 +1,6 @@
+[submodule "submodule1"]
+	path = submodule1
+	url = https://github.com/zhtyytg/test-git-worktree-submodule1.git
+[submodule "submodule-common"]
+	path = submodule-common
+	url = https://github.com/zhtyytg/test-git-worktree-submodule-common.git
